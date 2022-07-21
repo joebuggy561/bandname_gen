@@ -39,7 +39,3 @@ def writecsv():
         writer.writerow([name])
 for i in range(10):
     writecsv()
-
-
-    
-
